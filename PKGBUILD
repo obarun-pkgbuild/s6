@@ -1,7 +1,7 @@
 # Maintainer: Eric Vidal <eric@obarun.org>
 
 pkgname=s6
-pkgver=2.7.0.0
+pkgver=2.7.1.1
 pkgrel=1
 pkgdesc="A process supervision suite"
 arch=(x86_64)
